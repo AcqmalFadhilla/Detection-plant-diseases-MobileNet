@@ -6,5 +6,5 @@
 
 <h2>Model</h2>
 <p>Model saya buat cukup sederhana menggunakan 2 layer saja,yaitu layer input dengann mengunakan metode transfer learning artsitektur MobileNet,
-dan layer ke 2 sebagai layer output<p/>
+dan layer ke 2 sebagai layer output,walaupun sederhana tetapi mendapatkan akurasi yang baik 95%<p/>
 
